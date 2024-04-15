@@ -6,13 +6,13 @@
 <h1>Technologies used</h1>
 <ul>
 <li>Javascript</li>
-<li>NodeJs/npm</li>
+<li>NodeJs/npm/fs</li>
 </ul>
 
 <h1>NPM Packages used</h1>
 <ul>
 <li>Inquirer</li>
-<li>fs</li>
+<li>qr-image</li>
 </ul>
 
 <h1>Summary</h1>
